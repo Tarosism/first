@@ -1,18 +1,20 @@
 {
     "products": [
-        {
+        {   "id": "1",
             "name": "농구공",
             "price": 10000,
             "seller": "조던",
             "imageUrl": "images/products/basketball1.jpeg"
         },
         {
+            "id": "2",
             "name": "축구공",
             "price": 50000,
             "seller": "페르시반",
             "imageUrl": "images/products/soccerball1.jpg"
         },
         {
+            "id": "3",
             "name": "키보드",
             "price": 20000,
             "seller": "임요한",
